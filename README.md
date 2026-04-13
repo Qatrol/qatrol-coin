@@ -219,6 +219,13 @@ Epoch = 1,000,000,000 / 10 = 100,000,000 блоков
 
 ---
 
+## Скриншоты 
+<img width="1269" height="903" alt="image" src="https://github.com/user-attachments/assets/fed006a6-b310-4e51-b60e-0ae8c78e2ede" />
+<img width="1397" height="887" alt="image" src="https://github.com/user-attachments/assets/c07392a2-54f4-40ae-8fbc-95ab29240d2a" />
+<img width="1180" height="896" alt="image" src="https://github.com/user-attachments/assets/d84253cb-c469-4dfe-901d-16516b080ec9" />
+<img width="1172" height="803" alt="image" src="https://github.com/user-attachments/assets/ed9241cf-0e32-4da7-a219-a19f1def6910" />
+
+
 ## Лицензионное соглашение и отказ от ответственности
 
 ### Лицензия
